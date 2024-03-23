@@ -14,11 +14,10 @@ Instalación de la base de datos musica:
 6. Script Funciones
 
 Demostraciones DCL y TCL:
-7. DCL
-8. TCL
+Los script 7. DCL y 8. TCL nos muestran un ejemplos de Data Control Language y Transaction Control Language.
 
 Backup Dump Structure and Data:
-9. Dump musica 20231220
+Se puede ejecutar solo el script 9. Dump musica 20231220 para obtener el mismo resultado de los script 1-6.
 
 # Autor del proyecto
 Andrea de Maria Camacho
